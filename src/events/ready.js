@@ -3,6 +3,6 @@ module.exports = {
 
     run: async (client) => {
 
-        console.log("\n🤖 " + "| " + "Logado em:" + client.user.username)
+        console.log("\n🤖 " + "| " + "Logado em: " + client.user.username)
     }
 }
